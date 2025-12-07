@@ -62,7 +62,7 @@ const influencers = [
 ]
 
 const brands = [
-  { name: "Nike", logo: "./brands/alchemy.png" },
+  { name: "Alchemy", logo: "./brands/alchemy.png" },
   { name: "Ekadhi", logo: "./brands/ekadhi.png" },
   { name: "Emmadi", logo: "./brands/emmadi.png" },
   { name: "Fashion Factory", logo: "./brands/fashion-factory.png" },
